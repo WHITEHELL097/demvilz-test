@@ -1,0 +1,13 @@
+pyrogram
+TgCrypto
+py-tgcalls
+motor
+pymongo
+dnspython
+ffmpeg-python
+aiofiles
+aiohttp
+asyncio
+nest_asyncio
+python-dotenv
+psutil
