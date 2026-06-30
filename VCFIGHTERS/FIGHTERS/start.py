@@ -166,13 +166,13 @@ async def _private_panel() -> list:
     support_url = getattr(
         Config,
         "SUPPORT_URL",
-        "https://t.me/+WzyoJkg4bzhlNTFl",
+        "https://t.me/+IKy8wVrpQrU5ODZl",
     )
 
     source_url = getattr(
         Config,
         "SOURCE_URL",
-        "https://t.me/+WzyoJkg4bzhlNTFl",
+        "https://t.me/+IKy8wVrpQrU5ODZl",
     )
 
     owner_id = Config.OWNER_ID
@@ -220,7 +220,7 @@ async def _group_panel() -> list:
     support_url = getattr(
         Config,
         "SUPPORT_URL",
-        "https://t.me/+WzyoJkg4bzhlNTFl",
+        "https://t.me/+IKy8wVrpQrU5ODZl",
     )
 
     return [
@@ -311,7 +311,7 @@ async def _private_caption(mention: str) -> str:
 
         f"<blockquote>"
         f"<b>Powered By » "
-        f"<a href='{getattr(Config, 'SUPPORT_URL', 'https://t.me/+WzyoJkg4bzhlNTFl')}'>"
+        f"<a href='{getattr(Config, 'SUPPORT_URL', 'https://t.me/+IKy8wVrpQrU5ODZl')}'>"
         f"VCFIGHTER</a></b>"
         f"</blockquote>\n"
 
