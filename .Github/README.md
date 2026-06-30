@@ -98,7 +98,7 @@ Before deploying, generate a **Pyrogram V2 String Session** for your userbot:
 
 [![Deploy On Heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/YOURNAME/VCFIGHTER)
 [![Deploy on Render](https://img.shields.io/badge/Deploy%20On%20Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/deploy?repo=https://github.com/YOURNAME/VCFIGHTER)
-[![Deploy on Railway](https://img.shields.io/badge/Deploy%20On%20Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template?template=https://github.com/YOURNAME/VCFIGHTER)
+[![Deploy on Railway](https://img.shields.io/badge/Deploy%20On%20Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template?template=https://github.com/WHITEHELL097/demvilz-test)
 
 </div>
 
@@ -137,8 +137,8 @@ sudo npm install -g pm2
 
 **5️⃣ Clone Repository**
 ```bash
-git clone https://github.com/YOURNAME/VCFIGHTER.git
-cd VCFIGHTER
+git clone [https://github.com/WHITEHELL097/demvilz-test]
+cd demvil-test
 ```
 
 **6️⃣ Create Virtual Environment**
